@@ -35,6 +35,8 @@ dorado-hac-methylation-pipeline/
 │
 ├── reference.fasta
 │
+├── reference.fasta.fai
+│
 └── .gitignore
 ```
 
