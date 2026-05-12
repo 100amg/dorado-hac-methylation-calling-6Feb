@@ -196,11 +196,12 @@ samtools view -c sample_methylation.bam
 
 # Documentation
 
-Detailed documentation is available in:
+# Full Documentation
 
-```text
-docs/Dorado_HAC_Methylation_Pipeline_Documentation.md
-```
+Detailed workflow documentation is available here:
+
+[Google Docs Documentation](https://docs.google.com/document/d/1Wj-gkxO755uF2FdEJx0VJSViN6hjUYA6_AcrjSxTIXk/edit?tab=t.0))
+
 
 
 
