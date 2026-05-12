@@ -28,8 +28,6 @@ The workflow consists of two sequential scripts:
 dorado-hac-methylation-pipeline/
 │
 ├── README.md
-├── docs/
-│   └── Dorado_HAC_Methylation_Pipeline_Documentation.md
 │
 ├── scripts/
 │   ├── run_dorado_batch_hac_bases.sh
